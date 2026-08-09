@@ -1,4 +1,5 @@
 Subscription Analytics — Analysis Summary
+
 -Customer Cohort Analysis
 
 Question: After how many months do customers typically cancel their subscriptions?
